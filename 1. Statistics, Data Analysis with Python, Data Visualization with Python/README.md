@@ -1,2 +1,3 @@
-# NumPy-Exercises
-It consists of Numpy exercises like creating arrays, matrix, indexing and selection
+# 1. Statistics, Data Analysis with Python, Data Visualization with Python
+
+It consists Jupyter Notebooks and dataset about Statistics, Data Analysis and Data Visualization with Python

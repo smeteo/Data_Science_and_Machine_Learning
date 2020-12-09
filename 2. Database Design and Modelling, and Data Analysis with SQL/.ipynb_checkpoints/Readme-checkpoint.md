@@ -2,6 +2,5 @@
 Machine Learning exercises and projects 
 
 Folders;   
---Linear Regression  
---Logistic Regression  
---ML Project 1 AutoScout  
+--Data Analysis with SQL Project: E-Commerce  
+--Database Modelling Project  

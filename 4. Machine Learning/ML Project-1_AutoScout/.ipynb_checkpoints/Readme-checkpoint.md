@@ -4,8 +4,8 @@ Welcome to "Car Price Prediction Project". This is a medium project of Machine L
 Also, you will apply various processes such as pre-processing, train-test spilit and cross validation that you will use in algorithm modeling and prediction processes in Python with scikit-learn. 
 
 Steps include;
-1. Import Modules, Load Data and Data Review
-2. Data Pre-Processing
-3. Implement Linear Regression
-4. Implement Ridge Regression
-5. Implement Lasso Regression
+    -Import Modules, Load Data and Data Review
+    -Data Pre-Processing
+    -Implement Linear Regression
+    -Implement Ridge Regression
+    -Implement Lasso Regression

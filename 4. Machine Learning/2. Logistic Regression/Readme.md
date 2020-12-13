@@ -1,5 +1,5 @@
 # Logistic Regression
-Based on artificial advertising data set, this notebook consists of Regression Regression Analysis 
+Based on artificial advertising data set, this notebook consists of Logistic Regression Analysis 
 with steps below;  
             -Data Input  
             -Exploratory Data Analysis  

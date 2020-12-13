@@ -9,7 +9,7 @@ with steps below;
             -Training Model  
             -Predictions and Evaluations  
             -Confusion Matrix  
-            -Choosing a K value (Elbow Method)    
+            -Chosing a K value (Elbow Method)    
             -Retraing model with new K value
    
    

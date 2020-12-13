@@ -17,7 +17,7 @@ The advertising data set contains the following features:
 __'Daily Time Spent on Site':__ consumer time on site in minutes  
 __'Age'                     :__ cutomer age in years  
 __'Area Income'             :__ Avg. Income of geographical area of consumer  
-__'Daily Internet Usage':__ Avg. minutes a day consumer is on the internet  
+__'Daily Internet Usage'    :__ Avg. minutes a day consumer is on the internet  
 __'Ad Topic Line':__ Headline of the advertisement  
 __'City':__ City of consumer  
 __'Male':__ Whether or not consumer was male  

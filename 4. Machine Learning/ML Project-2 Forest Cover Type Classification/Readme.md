@@ -17,3 +17,14 @@
 |Wilderness Area (4 binary columns)|	0 (absence) or 1 (presence)|	Wilderness area designation|
 |Soil Type (40 binary columns)|	0 (absence) or 1 (presence)|	Soil Type designation|
 |Cover Type|	Classes 1 to 7|	Forest Cover Type designation - Response Variable|
+
+
+**Cover types:**  
+
+1. Spruce/Fir   
+2. Lodgepole Pine  
+3. Ponderosa Pine  
+4. Cottonwood/Willow  
+5. Aspen  
+6. Douglas-fir  
+7. Krummholz

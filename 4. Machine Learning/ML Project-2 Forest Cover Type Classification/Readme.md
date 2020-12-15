@@ -2,7 +2,7 @@
 
 **Data Exploration**  
 
-| Name |Measurement |	Description |  
+| Feature |Measurement |	Description |  
 | --- | --- | --- |  
 |Elevation |	meters|	Elevation in meters|
 |Aspect|	azimuth|	Aspect in degrees azimuth|

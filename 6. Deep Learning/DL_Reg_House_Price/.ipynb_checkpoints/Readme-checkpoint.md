@@ -1,3 +1,7 @@
+# King County House Price Prediction Deep Learning Project
+
+<img src='King_County_Map.PNG'>
+
 ## The Data
 
 We will be using data from a Kaggle data set:

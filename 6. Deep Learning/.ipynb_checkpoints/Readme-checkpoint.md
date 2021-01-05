@@ -1,5 +1,5 @@
 # Deep Learning
-Deep Learning exercises and projects  
+Deep Learning exercises  
 
 [Tensorflow/Keras Basics, Exercises](https://github.com/smeteo/Data_Science_and_Machine_Learning/blob/master/6.%20Deep%20Learning/Tensorflow_Keras_Basics.ipynb)   
 

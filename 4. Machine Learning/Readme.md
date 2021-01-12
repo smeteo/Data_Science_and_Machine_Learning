@@ -13,4 +13,4 @@ Machine Learning exercises and projects
 [Hierarchical Clustering](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/Hierarchical%20Clustering)
 
 ### Machine Learning Projects
-[ML Project 1 AutoScout](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/ML%20Project-1_AutoScout)  
+[ML Project 1 Car Price Prediction](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/ML%20Project-1%20Car%20Price%20Prediction)  

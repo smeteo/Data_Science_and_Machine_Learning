@@ -3,4 +3,4 @@ Natural Language Processing exercises and projects
 
 [1. Yelp Business Rating Prediction](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/5.%20Natural%20Language%20Processing/1.%20Yelp%20Business%20Rating%20Prediction)  
 [2. Sentiment Analysis and Classification](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/5.%20Natural%20Language%20Processing/2.%20Sentiment%20Analysis%20and%20Classification%20Models)  
-[3. NLP Sentiment Analysis Project](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/5.%20Natural%20Language%20Processing/NLP%20Sentiment%20Analysis%20Project)
+[3. Women's Clothing Sentiment Analysis Project](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/5.%20Natural%20Language%20Processing/3.%20Women's%20Clothing%20Sentiment%20Analysis%20Project)

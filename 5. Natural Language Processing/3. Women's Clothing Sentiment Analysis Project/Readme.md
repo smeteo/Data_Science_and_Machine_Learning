@@ -42,26 +42,26 @@ Afterwards, you will implement Word Cloud as a visual analysis of word repetitio
 Finally, You will build models with five different algorithms and compare their performance. Thus, you will determine the algorithm that makes the most accurate emotion estimation by using the information obtained from the Review Text variable.
 
 ### Steps
-1. Exploratory Data Analysis
-Import Modules, Load Discover the Data
-2. Feature Selection and Data Cleaning
-Feature Selection and Rename Column Name
-Missing Value Detection
-3. Text Mining
-Tokenization
-Noise Removal
-Lexicon Normalization
-4. WordCloud - Repetition of Words
-Detect Reviews
-Collect Words
-Create Word Cloud
-5. Sentiment Classification with Machine Learning
-Train - Test Split
-Vectorization
-TF-IDF
-Logistic Regression
-Naive Bayes
-Support Vector Machine
-Random Forest
-AdaBoost
-Model Comparison
+1. Exploratory Data Analysis  
+Import Modules, Load Discover the Data  
+2. Feature Selection and Data Cleaning  
+Feature Selection and Rename Column Name  
+Missing Value Detection  
+3. Text Mining  
+Tokenization  
+Noise Removal  
+Lexicon Normalization  
+4. WordCloud - Repetition of Words  
+Detect Reviews  
+Collect Words  
+Create Word Cloud  
+5. Sentiment Classification with Machine Learning  
+Train - Test Split  
+Vectorization   
+TF-IDF  
+Logistic Regression  
+Naive Bayes  
+Support Vector Machine  
+Random Forest  
+AdaBoost  
+Model Comparison  

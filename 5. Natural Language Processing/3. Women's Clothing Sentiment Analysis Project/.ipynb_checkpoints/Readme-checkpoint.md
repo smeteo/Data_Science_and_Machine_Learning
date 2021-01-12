@@ -1,4 +1,4 @@
-# Women's Clothes Sentiment Analysis Project  
+# Women's Clothing Sentiment Analysis Project  
 This analysis will focus on using Natural Language techniques to find broad trends in the written thoughts of the customers. The goal in this project is to predict whether customers recommend the product they purchased using the information in their review text.
 
 One of the challenges in this project is to extract useful information from the Review Text variable using text mining techniques. The other challenge is that you need to convert text files into numeric feature vectors to run machine learning algorithms.
@@ -9,17 +9,19 @@ Before diving into the project, please take a look at the Determines and Tasks.
 
 
 ### Data  
-The data is a collection of 22641 Rows and 10 column variables. Each row includes a written comment as well as additional customer information. Also each row corresponds to a customer review, and includes the variables:
+The data is a collection of 22641 Rows and 10 column variables. Each row includes a written comment as well as additional customer information. Kaggle source : [https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 
-Feature Information:
+Also each row corresponds to a customer review, and includes the variables:
 
-Clothing ID: Integer Categorical variable that refers to the specific piece being reviewed.
+Feature Information:  
 
-Age: Positive Integer variable of the reviewers age.
+Clothing ID: Integer Categorical variable that refers to the specific piece being reviewed.  
 
-Title: String variable for the title of the review.
+Age: Positive Integer variable of the reviewers age.  
 
-Review Text: String variable for the review body.
+Title: String variable for the title of the review.  
+
+Review Text: String variable for the review body.  
 
 Rating: Positive Ordinal Integer variable for the product score granted by the customer from 1 Worst, to 5 Best.
 

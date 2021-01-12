@@ -19,13 +19,13 @@ Also each row corresponds to a customer review, and includes the variables:
 |Feature | Description|
 | ---|---|
 
-|Clothing ID | Integer Categorical variable that refers to the specific piece being reviewed.|  
+|Clothing ID | Integer Categorical variable that refers to the specific piece being reviewed.|
 
-|Age | Positive Integer variable of the reviewers age.|  
+|Age | Positive Integer variable of the reviewers age.|
 
-|Title | String variable for the title of the review.|  
+|Title | String variable for the title of the review.|
 
-|Review Text | String variable for the review body.|  
+|Review Text | String variable for the review body.|
 
 |Rating | Positive Ordinal Integer variable for the product score granted by the customer from 1 Worst, to 5 Best.|
 

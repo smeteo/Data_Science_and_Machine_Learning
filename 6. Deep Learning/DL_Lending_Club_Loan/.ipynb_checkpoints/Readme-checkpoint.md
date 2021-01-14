@@ -1,3 +1,3 @@
 # Lending Club Deep Learning Project
 
-<img src='Lending.PNG'>
+<img src='Lending.png'>

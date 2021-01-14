@@ -1,1 +1,3 @@
-# Lending Loan Club Deep Learning Project
+# Lending Club Deep Learning Project
+
+<img src='Lending.PNG'>

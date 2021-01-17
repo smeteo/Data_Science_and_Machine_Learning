@@ -126,7 +126,7 @@ st.sidebar.title("Churn Probability of a Single Customer")
 
 html_temp = """
 <div style="background-color:tomato;padding:1.5px">
-<h1 style="color:white;text-align:center;">Richard Title </h1>
+<h1 style="color:white;text-align:center;">Nice Title </h1>
 </div><br>"""
 st.markdown(html_temp,unsafe_allow_html=True)
 import pickle

@@ -7,7 +7,7 @@ st.sidebar.title("Church Probeblity of a Single Customer")
 
 xgb_model = pickle.load(open("XGBoost","rb"))
 knn_model = pickle.load(open("Knn","rb"))
-dec_model = pickle.load(open("Dectree","rb"))
+rf_model = pickle.load(open("RF","rb"))
 
 
 
@@ -63,9 +63,9 @@ st.write('')
 st.dataframe(data=df, width=700, height=400)
 st.write('')
 
-st.subheader("Choose an ML Model:")
+st.subheader("Choose a ML Model:")
 model = st.radio('',['XGBoost Classifier', 
-                     'Decision Tree Classifier', 'KNN Classifier'])
+                     'Random Forest Classifier', 'KNN Classifier'])
 
 
 # Button
@@ -77,9 +77,9 @@ if st.button("Submit"):
             my_bar.progress(p)
             time.sleep(0.1)
 
-        if model=='Decision Tree Classifier':
-            churn_probability = dec_model.predict_proba(df)
-            is_churn= dec_model.predict(df)
+        if model=='Random Forest Classifier':
+            churn_probability = rf_model.predict_proba(df)
+            is_churn= rf_model.predict(df)
         elif model=='XGBoost Classifier':
             churn_probability= xgb_model.predict_proba(df)
             is_churn= xgb_model.predict(df)           

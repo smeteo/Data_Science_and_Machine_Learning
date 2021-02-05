@@ -4,7 +4,7 @@ In this project you have HR data of a company. A study is requested from you to 
 
 The HR dataset has 14,999 samples. In the given dataset, you have two types of employee one who stayed and another who left the company.
 
-1. Exploratory Data Analysis  
+**1. Exploratory Data Analysis  
 Importing Modules  
 Loading Dataset  
 Data Insigts  

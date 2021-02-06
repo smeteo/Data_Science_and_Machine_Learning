@@ -5,7 +5,7 @@ import numpy as np
 
 st.sidebar.title("Church Probeblity of a Single Customer")
 
-xgb_model = pickle.load(open("XGBoost","rb"))
+#xg_model = pickle.load(open("XGBoost","rb"))
 knn_model = pickle.load(open("Knn","rb"))
 rf_model = pickle.load(open("RF","rb"))
 
@@ -64,8 +64,11 @@ st.dataframe(data=df, width=700, height=400)
 st.write('')
 
 st.subheader("Choose a ML Model:")
-model = st.radio('',['XGBoost Classifier', 
-                     'Random Forest Classifier', 'KNN Classifier'])
+model = st.radio('',[
+    #'XGBoost Classifier', 
+                     'Random Forest Classifier',
+                     'KNN Classifier'
+                    ])
 
 
 # Button
@@ -76,17 +79,20 @@ if st.button("Submit"):
         for p in range(0,101,10):
             my_bar.progress(p)
             time.sleep(0.1)
-
+    
         if model=='Random Forest Classifier':
             churn_probability = rf_model.predict_proba(df)
             is_churn= rf_model.predict(df)
-        elif model=='XGBoost Classifier':
-            churn_probability= xgb_model.predict_proba(df)
-            is_churn= xgb_model.predict(df)           
+            
+#        elif model=='XGBoost Classifier':
+#            churn_probability= xg_model.predict_proba(df)
+#            is_churn= xg_model.predict(df)
+            
         elif model=='KNN Classifier':
             churn_probability= knn_model.predict_proba(df)
             is_churn= knn_model.predict(df)
-    
+        
+           
     
         st.success(f'The Probability of the Employee Churn is %{round(churn_probability[0][1]*100,1)}')
         

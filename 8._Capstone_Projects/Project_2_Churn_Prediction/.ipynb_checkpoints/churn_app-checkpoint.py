@@ -2,8 +2,13 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
+from PIL import Image
 
-st.sidebar.title("Church Probeblity of a Single Customer")
+st.sidebar.title("Church Probeblity and Prediction of an Employee")
+
+im = Image.open("image.jpg")
+st.image(im, width=700)
+
 
 #xg_model = pickle.load(open("XGBoost","rb"))
 knn_model = pickle.load(open("Knn","rb"))

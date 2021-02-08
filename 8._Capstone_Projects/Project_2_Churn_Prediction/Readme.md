@@ -9,7 +9,9 @@ Importing Modules
 Loading Dataset  
 Data Insigts  
 
-<img src='Streamlit.PNG'>
+<img src='eda.PNG'>  
+
+
 #### 2. Data Visualization  
 Employees Left  
 Determine Number of Projects  

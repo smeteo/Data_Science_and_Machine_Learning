@@ -16,3 +16,5 @@ Folders include;
 [6. Deep Learning](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/6.%20Deep%20Learning)  
 
 [7. Model Deployment](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/7.%20Model%20Deployment)  
+
+[8. Capstone Projects](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/8._Capstone_Projects)  

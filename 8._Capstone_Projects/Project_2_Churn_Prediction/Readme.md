@@ -30,6 +30,12 @@ Built Random Forest Classifier and Evaluate Model Performance and Predict Test D
 #### 6. Model Deployement  
 Save and Export the Model as .pkl  
 Save and Export Variables as .pkl  
+
+#### 7. Running Model on AWS EC2
+
+
+<img src='Streamlit.PNG'>
+
  
 
 ### Dataset
@@ -47,3 +53,4 @@ You can describe 10 attributes in detail as:
 |Departments| Employee's working department/division.|
 |Salary| Salary level of the employee such as low, medium and high.|
 |left| Whether the employee has left the company or not.|
+

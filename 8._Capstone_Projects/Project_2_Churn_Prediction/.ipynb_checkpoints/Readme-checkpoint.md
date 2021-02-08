@@ -8,6 +8,8 @@ The HR dataset has 14,999 samples. In the given dataset, you have two types of e
 Importing Modules  
 Loading Dataset  
 Data Insigts  
+
+<img src='Streamlit.PNG'>
 #### 2. Data Visualization  
 Employees Left  
 Determine Number of Projects  

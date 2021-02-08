@@ -13,6 +13,9 @@ Employees Left
 Determine Number of Projects  
 Determine Time Spent in Company  
 Subplots of Features  
+
+<img src='Barplot.png'>
+
 #### 3. Data Pre-Processing  
 Scaling  
 Label Encoding  

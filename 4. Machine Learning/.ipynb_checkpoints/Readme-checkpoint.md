@@ -10,6 +10,9 @@ Machine Learning exercises and projects
 [4. Decision Tree and Random Forest](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/4.%20Decision%20Tree%20and%20Random%20Forest)  
 
 ### Unsupervised Learning  
+[K-Means Clustering](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/5.%20K-Means%20Clustering)  
+
+
 [Hierarchical Clustering](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/Hierarchical%20Clustering)
 
 ### Machine Learning Projects

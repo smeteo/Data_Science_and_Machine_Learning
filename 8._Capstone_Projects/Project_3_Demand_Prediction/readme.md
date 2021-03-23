@@ -19,3 +19,7 @@ In order to achieve this goal, you will make predictions with LSTM, unlike the m
 |is_holiday | boolean field - 1 holiday / 0 non holiday|
 |is_weekend | boolean field - 1 if the day is weekend|
 |season | category field meteorological seasons: 0-spring ; 1-summer; 2-fall; 3-winter.|
+
+<img src='Boxplot.PNG'>   
+
+<img src='Bike_Share_By_Hours.PNG'>   

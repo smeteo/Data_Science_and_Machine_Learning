@@ -25,3 +25,10 @@ In order to achieve this goal, you will make predictions with LSTM, unlike the m
 <img src='Bike_Share_By_Hours.PNG'>   
 
 <img src='Bike_Share_By_Weekend.PNG'>   
+
+### Bidirectional LSTM :  
+Bidirectional LSTMs are an extension of traditional LSTMs that can improve model performance on sequence classification problems.  
+
+In problems where all timesteps of the input sequence are available, Bidirectional LSTMs train two instead of one LSTMs on the input sequence. The first on the input sequence as-is and the second on a reversed copy of the input sequence. This can provide additional context to the network and result in faster and even fuller learning on the problem. Figure shows the mechanism of Bidirectional LSTM.  
+
+<img src='Bidirectional.PNG'>   

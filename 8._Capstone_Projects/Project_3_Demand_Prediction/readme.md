@@ -23,3 +23,5 @@ In order to achieve this goal, you will make predictions with LSTM, unlike the m
 <img src='Boxplot.PNG'>   
 
 <img src='Bike_Share_By_Hours.PNG'>   
+
+<img src='Bike_Share_By_Weekend.PNG'>   

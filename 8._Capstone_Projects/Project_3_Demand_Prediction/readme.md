@@ -33,5 +33,8 @@ In problems where all timesteps of the input sequence are available, Bidirection
 
 <img src='Bidirectional.PNG'>    
 
-### Plotting Traind and Validation Losses
+### Plotting Traind and Validation Losses  
 <img src='Model_history.PNG'>    
+
+### Plotting Prediction  
+<img src='Prediction.PNG'>    

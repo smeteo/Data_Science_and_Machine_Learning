@@ -44,6 +44,11 @@ Finally, You will build models with five different algorithms and compare their 
 ### Steps
 1. Exploratory Data Analysis  
 Import Modules, Load Discover the Data  
+
+<img src='Target.PNG'>
+
+<img src='Recom_Rating.PNG'>
+
 2. Feature Selection and Data Cleaning  
 Feature Selection and Rename Column Name  
 Missing Value Detection  

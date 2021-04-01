@@ -32,7 +32,7 @@ Classification Models: Logistic Regression, XGBOOST Classifier, Random Forest, C
 
 ## The Data
 
-### Breast cancer wisconsin (diagnostic) dataset
+### Breast cancer Wisconsin (diagnostic) dataset
 --------------------------------------------
 
 **Data Set Characteristics:**

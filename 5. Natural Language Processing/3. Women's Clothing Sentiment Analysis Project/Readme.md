@@ -49,6 +49,8 @@ Import Modules, Load Discover the Data
 
 <img src='Recom_Rating.PNG'>
 
+<img src='Rating_Recom.PNG'>
+
 2. Feature Selection and Data Cleaning  
 Feature Selection and Rename Column Name  
 Missing Value Detection  
@@ -60,6 +62,9 @@ Lexicon Normalization
 Detect Reviews  
 Collect Words  
 Create Word Cloud  
+
+<img src='WordCloud.PNG'>
+
 5. Sentiment Classification with Machine Learning  
 Train - Test Split  
 Vectorization   

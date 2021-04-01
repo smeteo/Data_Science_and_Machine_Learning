@@ -1,6 +1,34 @@
 # Cancer Cells Deep Learning Classification Project (Keras TF 2.0)
 
-Let's explore a classification task with Keras API for TF 2.0
+Used Deep Learning for identification and classification of a malignant and benign tumor, dataset by the University of California, Irvine.  
+
+#### 1. Exploratory Data Analysis  
+
+<img src='Target.PNG'>  
+
+#### 2. Feature Engineering  
+
+<img src='Heatmap.PNG'>  
+
+#### 3. Data Prepocessing and Model Building  
+Min-Max Scaling
+
+#### 4. Creating Deep Learning Model  
+Dealing with Overfitting  
+Early Stops  
+Dropouts    
+
+<img src='Overfit.PNG'>  
+
+
+#### 5. Model Evaluation, Making Predictions  
+
+<img src='Earlystop.PNG'>  
+
+
+
+Label encoding, Text Processing, Train-Test Split, Count Vectorizer, TF-ITF,
+Classification Models: Logistic Regression, XGBOOST Classifier, Random Forest, Comparison of results
 
 ## The Data
 

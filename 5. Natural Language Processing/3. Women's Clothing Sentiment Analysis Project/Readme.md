@@ -63,7 +63,7 @@ Detect Reviews
 Collect Words  
 Create Word Cloud  
 
-<img src='WordCloud.PNG'>
+<img src='WordCloud.PNG'>  
 
 5. Sentiment Classification with Machine Learning  
 Train - Test Split  
@@ -75,3 +75,7 @@ Support Vector Machine
 Random Forest  
 AdaBoost  
 Model Comparison  
+
+<img src='accuracy.PNG'>  
+
+<img src='F1scores.PNG'>  

@@ -1,4 +1,4 @@
-# Keras TF 2.0 - Code Along Classification Project
+# Cancer Cells Deep Learning Classification Project (Keras TF 2.0)
 
 Let's explore a classification task with Keras API for TF 2.0
 

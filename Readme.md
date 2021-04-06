@@ -21,6 +21,9 @@ Folders include;
 
 ## [3. Data Visualisation with Tableau](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/3.%20Data%20Visualization%20with%20Tableau)  
 
+[Nintendo Sales Dashboard](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/3.%20Data%20Visualization%20with%20Tableau)    
+[COVID-19 Dashboard](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/3.%20Data%20Visualization%20with%20Tableau)    
+
 ## [4. Machine Learning (ML)](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning)    
 
 ## [5. Natural Language Processing (NLP)](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/5.%20Natural%20Language%20Processing)  

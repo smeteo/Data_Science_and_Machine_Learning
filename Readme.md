@@ -3,7 +3,7 @@ This repository consists of exercises and projects that were completed in Data S
 
 Folders include;   
 
-## <font color=red>[1. Statistics, Data Analysis & Data Visualization with Python]</font>(https://github.com/smeteo/Data-Science-and-Machine-Learning/tree/master/1.%20Statistics%2C%20Data%20Analysis%20with%20Python%2C%20Data%20Visualization%20with%20Python)  
+## [<font color=red>1. Statistics, Data Analysis & Data Visualization with Python</font>](https://github.com/smeteo/Data-Science-and-Machine-Learning/tree/master/1.%20Statistics%2C%20Data%20Analysis%20with%20Python%2C%20Data%20Visualization%20with%20Python)  
 
 #### Exercises  
 [Data Analysis Exercises](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/1.%20Statistics%2C%20Data%20Analysis%20with%20Python%2C%20Data%20Visualization%20with%20Python/Data_Analysis_Exercises)    

@@ -21,10 +21,24 @@ Folders include;
 
 ## [3. Data Visualisation with Tableau](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/3.%20Data%20Visualization%20with%20Tableau)  
 
-[Nintendo Sales Dashboard](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/3.%20Data%20Visualization%20with%20Tableau)    
-[COVID-19 Dashboard](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/3.%20Data%20Visualization%20with%20Tableau)    
+[Nintendo Sales Tableau Dashboard](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/3.%20Data%20Visualization%20with%20Tableau)    
+[COVID-19 Tableau Dashboard](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/3.%20Data%20Visualization%20with%20Tableau)    
 
 ## [4. Machine Learning (ML)](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning)    
+
+#### Supervised Learning
+[Linear Regression](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/1.%20Linear%20Regression)  
+[Logistic Regression](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/2.%20Logistic%20Regression)  
+[K-Nearest Neighbors](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/3.%20K-Nearest%20Neighbors)  
+[Decision Tree and Random Forest](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/4.%20Decision%20Tree%20and%20Random%20Forest)  
+
+#### Unsupervised Learning  
+[K-Means Clustering](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/5.%20K-Means%20Clustering)  
+
+[Hierarchical Clustering](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/Hierarchical%20Clustering)
+
+#### Machine Learning Projects
+[ML Project 1 Car Price Prediction](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/4.%20Machine%20Learning/ML%20Project-1%20Car%20Price%20Prediction)  
 
 ## [5. Natural Language Processing (NLP)](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/5.%20Natural%20Language%20Processing)  
 

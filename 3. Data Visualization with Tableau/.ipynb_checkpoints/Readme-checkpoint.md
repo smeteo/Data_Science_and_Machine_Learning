@@ -1,4 +1,4 @@
-# Nintendo Sales Dashboard
+# Nintendo Tableau Sales Dashboard
 
 <img src='Nintendo Sales Dashboard.PNG'>
 
@@ -6,7 +6,7 @@
 
 
 
-# COVID-19 Dashboard
+# COVID-19 Tableau Dashboard
 
 <img src='COVID-19 Dashboard.PNG'>
 

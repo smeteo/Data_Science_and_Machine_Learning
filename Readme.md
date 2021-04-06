@@ -42,6 +42,11 @@ Folders include;
 
 ## [5. Natural Language Processing (NLP)](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/5.%20Natural%20Language%20Processing)  
 
+[Yelp Business Rating Prediction](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/5.%20Natural%20Language%20Processing/1.%20Yelp%20Business%20Rating%20Prediction)  
+[Sentiment Analysis and Classification](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/5.%20Natural%20Language%20Processing/2.%20Sentiment%20Analysis%20and%20Classification%20Models)  
+[Women's Clothing Sentiment Analysis Project](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/5.%20Natural%20Language%20Processing/3.%20Women's%20Clothing%20Sentiment%20Analysis%20Project)
+
+
 ## [6. Deep Learning](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/6.%20Deep%20Learning)  
 
 ## [7. Model Deployment](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/7.%20Model%20Deployment)  

@@ -14,7 +14,10 @@ Folders include;
 [Exploratory Data Analysis Project: Scout Car, Predicting Car Prices](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/1.%20Statistics%2C%20Data%20Analysis%20with%20Python%2C%20Data%20Visualization%20with%20Python/Exploratory_Data_Analysis_Project_Scout_Car)
 
 
-## [2. Database Design and Modelling, and Data Analysis with SQL](https://github.com/smeteo/Data-Science-and-Machine-Learning/tree/master/2.%20Database%20Design%20and%20Modelling%2C%20and%20Data%20Analysis%20with%20SQL)  
+## [2. Database Design and Modelling, Data Analysis with SQL](https://github.com/smeteo/Data-Science-and-Machine-Learning/tree/master/2.%20Database%20Design%20and%20Modelling%2C%20and%20Data%20Analysis%20with%20SQL)  
+
+[Data Analysis with SQL Project: E-Commerce](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/2.%20Database%20Design%20and%20Modelling%2C%20and%20Data%20Analysis%20with%20SQL/Data_Analysis_with_SQL_Project_E-Commerce)  
+[Database Modelling Project](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/2.%20Database%20Design%20and%20Modelling%2C%20and%20Data%20Analysis%20with%20SQL/Database_Modelling_Project_University)  
 
 ## [3. Data Visualisation with Tableau](https://github.com/smeteo/Data_Science_and_Machine_Learning/tree/master/3.%20Data%20Visualization%20with%20Tableau)  
 

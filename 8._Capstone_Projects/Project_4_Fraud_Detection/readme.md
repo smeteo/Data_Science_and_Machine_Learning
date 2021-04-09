@@ -43,6 +43,8 @@ Neural Network
 Comparison of Models
 
 <img src='Comparison.PNG'>  
-####  4. Model Deployement  
-Save and Export the Model as .pkl  
-Save and Export Variables as .pkl  
+
+####  4. Model Deployement   
+
+Save and Export the Model as .pkl   
+Save and Export Variables as .pkl   

@@ -4,9 +4,10 @@ The datasets contains transactions made by credit cards in September 2013 by eur
 
 |Feature | Description|
 |---|---|
-|Time: |This feature contains the seconds elapsed between each transaction and the first transaction in the dataset.|
-|Amount:| This feature is the transaction Amount, can be used for example-dependant cost-senstive learning.|
-|Class: |This feature is the target variable and it takes value 1 in case of fraud and 0 otherwise.|
+|Time |This feature contains the seconds elapsed between each transaction and the first transaction in the dataset.|
+|Amount| This feature is the transaction Amount, can be used for example-dependant cost-senstive learning.|
+|Class |This feature is the target variable and it takes value 1 in case of fraud and 0 otherwise.|
+|V1 - V28 |Anonymous features.|
 
 
 #### 1. Exploratory Data Analysis & Data Cleaning  
